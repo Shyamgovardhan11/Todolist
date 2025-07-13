@@ -17,7 +17,8 @@ A simple and responsive **To-Do List** web application built using **HTML, CSS, 
 ## 📸 Preview
 
 ![To-Do List Screenshot](screenshot.png)  
-*(Add your own screenshot image in the repo for better visibility)*
+<img width="1918" height="1137" alt="Screenshot 2025-06-25 203725" src="https://github.com/user-attachments/assets/f198a4eb-a853-441d-8af6-6756ce08b867" />
+
 
 ---
 
